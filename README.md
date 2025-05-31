@@ -10,3 +10,6 @@
 - file exporting
 - destructuring
 - object acessing
+- moduling
+- creating json file
+- npm installing
