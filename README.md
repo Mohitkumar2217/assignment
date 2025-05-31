@@ -1,7 +1,12 @@
 # assignment
-iwt work
-topic 
-events handling 
-dom manipulation 
-error handling 
-jQuery 
+1. javascript :-
+-iwt work
+-topic 
+-events handling 
+-dom manipulation 
+-error handling 
+-jQuery 
+2. nodejs :-
+-file exporting
+-destructuring
+-object acessing
