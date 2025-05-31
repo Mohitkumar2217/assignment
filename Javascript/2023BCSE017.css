@@ -1,0 +1,47 @@
+.box {
+    height: 40px;
+    width: 40px;
+    color: black;
+    background-color: blue;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+#submit {
+    background-color: green;
+    color: red;
+    display: flex;
+    justify-content: center;
+    margin-left: 46.8vw;
+} 
+.submitted {
+    background-color: aqua;
+    color: black;
+    border-color: none;;
+}
+#mode {
+    margin-top:5vh;
+    margin-left: 47vw;
+    font-family: 'Segoe UI';
+}
+p,h2,h1 {
+    font-size: 23px;
+    margin-top:5vh;
+    margin-left: 45vw;
+}
+#mouseover{
+    display: flex;
+    justify-content: center;
+}
+a {
+    font-size: 35px;
+    color: black;
+    text-decoration: none;
+}
